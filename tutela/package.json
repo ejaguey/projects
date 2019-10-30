@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-tutela",
+  "version": "0.0.1",
+  "description": "Plugin para SDK nativo de tutela",
+  "cordova": {
+    "id": "cordova-plugin-tutela",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Eduardo Jaguey",
+  "license": "ISC"
+}
